@@ -1,3 +1,9 @@
 body{
-    background-color: lightcoral;
+    background-color: lightgreen;
+    width: 900px;
+    margin: 0 auto;
+
+}
+h1{
+    font-size: 64px;
 }
